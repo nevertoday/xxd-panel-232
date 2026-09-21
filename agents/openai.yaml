@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 232"
+  short_description: "横向层状民艺：上半保留原照，下半压成安静展开的带状地方风景"
+  default_prompt: "Use $xxd-panel-232 to transform my photograph following the complete canonical source brief."
