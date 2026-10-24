@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-232
-description: "Create XXD Panel 232 raster artwork: a faithful photograph paired with a quiet folk-modernist editorial landscape of shallow horizontal bands, simplified place-forms, muted sage and beige, and at most a tiny isolated figure as a narrative punctuation mark. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-232 or asks for this 横向层状民艺 style."
+description: "XXD Panel 232｜Horizontal Layered Folk-Modern: compresses the place in a photo into a quiet folk-modernist editorial illustration of shallow, flat horizontal bands — fields, roads, walls, roofs, hedges and distant land — with simplified local buildings and geometric trees, any person reduced to one tiny isolated figure like a punctuation mark, very low visual density and abundant white space, on matte paper with light screen-print grain and an old-book illustration texture, in a heavily desaturated palette compressed from the photo (grey-green, sage, warm beige, pale grey, faded wine red, earth brown) under soft overcast light, with a few small, light words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-232 or asks for layered folk-modern landscape, muted horizontal-band editorial illustration from a photo."
 ---
 
 # XXD Panel 232
